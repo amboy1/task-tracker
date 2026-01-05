@@ -1,5 +1,4 @@
-https://github.com/amboy1/task-tracker
-
+https://roadmap.sh/projects/task-tracker
 # 📝 Task Tracker CLI
 
 Простой CLI-трекер задач на Python с сохранением данных в JSON-файл.
